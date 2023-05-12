@@ -4,6 +4,8 @@ Vesna here. I'm in the HyperionDev Bootcamp currently expanding my Data Scientis
 
 📫 How to reach me:
 ![Linkedin_Sharp](https://github.com/Brekalo/Brekalo/blob/main/assets/38909114/04bc445b-6330-466c-8ad3-f6852cc1b6ed.png | width=100)
+<img src="https://github.com/Brekalo/Brekalo/raw/main/assets/38909114/04bc445b-6330-466c-8ad3-f6852cc1b6ed.png" width="100">
+
 
 
 
