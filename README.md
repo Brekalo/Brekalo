@@ -9,6 +9,8 @@ Vesna here. I'm in the HyperionDev Bootcamp currently expanding my Data Scientis
 
 ![Linkedin_Sharp](https://github.com/Brekalo/Brekalo/assets/38909114/9a62d19a-b7ff-4455-af2a-3c4bd882758a)
 ![Linkedin_Sharp](https://github.com/Brekalo/Brekalo/assets/38909114/c3ab69be-a771-48ed-bc05-b1d3c5dd04e9)
+<a href="["Linkedin"](https://www.linkedin.com/in/vesna-marija-brekalo/)><img src="https://github.com/Brekalo/Brekalo/raw/main/path/to/image.png" alt="LinkedIn" width="100"/></a>
+
 
 
 
