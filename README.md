@@ -17,8 +17,6 @@ Vesna here. I'm in the HyperionDev Bootcamp currently expanding my Data Scientis
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vesna-marija-brekalo/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vesna-marija-brekalo/)
-
 <!--
 **Brekalo/Brekalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
