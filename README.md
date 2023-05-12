@@ -3,7 +3,10 @@
 Vesna here. I'm in the HyperionDev Bootcamp currently expanding my Data Scientist skills. As part of this program, I am learning various analysis tools, such as Python, Data Visualization, Machine Learning, Natural Language Processing (NLP), and more.
 
 📫 How to reach me:
-![Linkedin_Sharp](https://github.com/Brekalo/Brekalo/assets/38909114/04bc445b-6330-466c-8ad3-f6852cc1b6ed) <img src="[https://github.com/username/repositoryname/path/to/image.png](https://github.com/Brekalo/Brekalo/assets/38909114/04bc445b-6330-466c-8ad3-f6852cc1b6ed)" width="400" >
+![Linkedin_Sharp](https://github.com/Brekalo/Brekalo/assets/38909114/04bc445b-6330-466c-8ad3-f6852cc1b6ed) <img src="[https://github.com/username/repositoryname/path/to/image.png](https://github.com/Brekalo/Brekalo/assets/38909114/04bc445b-6330-466c-8ad3-f6852cc1b6ed)" width="200" >
+
+<img src="https://github.com/Brekalo/Brekalo/blob/main/assets/38909114/04bc445b-6330-466c-8ad3-f6852cc1b6ed.png" width="200" >
+
 ![Linkedin](<img src="https://github.com/Brekalo/Brekalo/assets/38909114/f06ce8ec-7370-4b24-ba48-f237fcf30e90" width="200">)
 
 
