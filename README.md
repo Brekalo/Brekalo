@@ -18,6 +18,7 @@ Vesna here. I'm in the HyperionDev Bootcamp currently expanding my Data Scientis
 ![Linkedin](https://github.com/Brekalo/Brekalo/assets/38909114/12f34b57-d82e-49f2-89ea-1810bc5a9477.png)
 
 [![Linkedin](https://github.com/Brekalo/Brekalo/assets/38909114/12f34b57-d82e-49f2-89ea-1810bc5a9477.png)](https://www.linkedin.com/in/vesna-marija-brekalo/)
+[![Linkedin](https://github.com/Brekalo/Brekalo/raw/main/assets/38909114/12f34b57-d82e-49f2-89ea-1810bc5a9477.png)](https://www.linkedin.com/in/vesna-marija-brekalo/)
 
 
 
