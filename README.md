@@ -11,8 +11,6 @@ Vesna here. I'm in the HyperionDev Bootcamp currently expanding my Data Scientis
 ![Linkedin](<a href="https://www.linkedin.com/in/vesna-marija-brekalo/"><img src="https://github.com/Brekalo/Brekalo/raw/main/path/to/[image.png](https://github.com/Brekalo/Brekalo/assets/38909114/12f34b57-d82e-49f2-89ea-1810bc5a9477)" alt="LinkedIn" width="100"/></a>)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Linkedin" src="https://github.com/Brekalo/Brekalo/assets/38909114/12f34b57-d82e-49f2-89ea-1810bc5a9477.png">
 </picture>
 
