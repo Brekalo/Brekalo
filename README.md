@@ -7,7 +7,9 @@ Vesna here. I'm in the HyperionDev Bootcamp currently expanding my Data Scientis
 <img src="https://github.com/Brekalo/Brekalo/raw/main/assets/38909114/04bc445b-6330-466c-8ad3-f6852cc1b6ed.png" width="100">
 
 
+![Linkedin_Sharp](https://github.com/Brekalo/Brekalo/assets/38909114/9a62d19a-b7ff-4455-af2a-3c4bd882758a)
 
+![Linkedin](https://github.com/Brekalo/Brekalo/assets/38909114/716a6fe4-c12d-41d5-80cb-06174425369e)
 
 
 
