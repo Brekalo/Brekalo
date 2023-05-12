@@ -15,15 +15,11 @@ Vesna here. I'm in the HyperionDev Bootcamp currently expanding my Data Scientis
 
 📫 How to reach me:
 
-![Linkedin](https://github.com/Brekalo/Brekalo/assets/38909114/94e3d019-ee7c-47c4-a819-391de29b37ef.png)
-
-[![Linkedin](https://github.com/Brekalo/Brekalo/assets/38909114/94e3d019-ee7c-47c4-a819-391de29b37ef.png)](https://www.linkedin.com/in/vesna-marija-brekalo/)
-[![Linkedin](https://github.com/Brekalo/Brekalo/raw/main/assets/38909114/94e3d019-ee7c-47c4-a819-391de29b37ef.png)](https://www.linkedin.com/in/vesna-marija-brekalo/)
-
-
 ![Linkedin-Line](https://github.com/Brekalo/Brekalo/assets/38909114/d32a4dca-9988-455c-acf3-40e960580511.jpg)
 
 [![Linkedin](https://github.com/Brekalo/Brekalo/assets/38909114/d32a4dca-9988-455c-acf3-40e960580511.jpg)](https://www.linkedin.com/in/vesna-marija-brekalo/)
+
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myprofile)
 
 <!--
 **Brekalo/Brekalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
