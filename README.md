@@ -4,8 +4,8 @@
 
 <details>
     <summary><b>✨About Me</b></summary><br/>
-    <p>An experienced Senior Creative Graphic Designer with both technical and soft skills, I am currently transitioning into the data analytics field.
-Due to my design background, I am able to understand development processes and workflow, enabling me to think like a designer as well as work efficiently as a Data Analyst.</p>
+    <ul>An experienced Senior Creative Graphic Designer with both technical and soft skills, I am currently transitioning into the data analytics field.</ul>
+    <ul>Due to my design background, I am able to understand development processes and workflow, enabling me to think like a designer as well as work efficiently as a Data Analyst.</ul>
 </details>
 <br>
 *//
