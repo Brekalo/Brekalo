@@ -8,7 +8,6 @@
     <ul>Due to my design background, I am able to understand development processes and workflow, enabling me to think like a designer as well as work efficiently as a Data Analyst.</ul>
 </details>
 <br>
-*//
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
@@ -33,7 +32,6 @@
 
 ⚡ Fun fact: Using my problem-solving skills, I create disruptive and innovative projects with a customer-centered approach.
 Through experimentation with new technology trends and techniques, I continually expand my knowledge and skills.
-*//
 📫 How to reach me:
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vesna-marija-brekalo/)
