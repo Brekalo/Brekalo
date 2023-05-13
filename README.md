@@ -32,11 +32,12 @@
 
 ⚡ Fun fact: Using my problem-solving skills, I create disruptive and innovative projects with a customer-centered approach.
 Through experimentation with new technology trends and techniques, I continually expand my knowledge and skills.
+😄 Pronouns: she/her
+
 📫 How to reach me:
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vesna-marija-brekalo/)
 
-😄 Pronouns: she/her
 
 <!--
 **Brekalo/Brekalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
