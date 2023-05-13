@@ -10,7 +10,7 @@ Due to my design background, I am able to understand development processes and w
 
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
-    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg"></code>
+    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"></code>    
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"></code>
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>      
@@ -25,7 +25,7 @@ Due to my design background, I am able to understand development processes and w
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"></code> 
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"></code> 
     <br>
-    <p><a href="https://devicon.dev/" style="font-style:italic; font-size:30px;">Thank you DevIcon!</a></p>
+    <p><a href="https://devicon.dev/" style="font-style:italic; font-size:30px;">Thanks to Devicon for the icons!</a></p>
 </details>       
 
 🤔 I’m looking for help with ... open source contributors and Data Analytics experts.
