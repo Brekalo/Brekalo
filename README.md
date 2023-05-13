@@ -32,7 +32,7 @@
 <br>
 ⚡ Fun fact: Through experimentation with new technology trends and techniques, I continually expand my knowledge and skills.
 
-😄 Pronouns: she/her
+😄 Pronouns: She/Her
 
 📫 How to reach me:
 
