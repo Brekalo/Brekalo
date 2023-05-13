@@ -27,7 +27,7 @@
     <br>
     <p><a href="https://devicon.dev/" style="font-style:italic; font-size:30px;">Thanks to Devicon for the icons!</a></p>
 </details>       
-
+<hr/>
 🤔 I’m looking for help with ... open source contributors and Data Analytics experts.
 
 ⚡ Fun fact: Using my problem-solving skills, I create disruptive and innovative projects with a customer-centered approach.
