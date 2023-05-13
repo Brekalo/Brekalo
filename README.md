@@ -13,7 +13,10 @@ Vesna here. I'm in the HyperionDev Bootcamp currently expanding my Data Scientis
 
 </details>
 
-- 🤔 I’m looking for help with ... open source contributors and Data Analytics experts.
+🤔 I’m looking for help with ... open source contributors and Data Analytics experts.
+
+⚡ Fun fact: Using my problem-solving skills, I create disruptive and innovative projects with a customer-centered approach.
+Through experimentation with new technology trends and techniques, I continually expand my knowledge and skills.
 
 📫 How to reach me:
 
