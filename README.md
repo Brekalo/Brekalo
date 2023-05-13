@@ -26,7 +26,7 @@
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"></code> 
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"></code> 
     <br>
-    <p><a href="https://devicon.dev/" style="font-style:italic; font-size:30px;">Thanks to Devicon for the icons!</a></p>
+    <p><a href="https://devicon.dev/" style="font-style: italic; font-size: 15px;">Thanks to Devicon for the icons!</a></p>
 </details>       
 <hr/>
 🤔 I’m looking for help with ... open source contributors and Data Analytics experts.
