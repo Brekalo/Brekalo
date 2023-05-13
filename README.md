@@ -6,6 +6,7 @@
     <summary><b>✨About Me</b></summary><br/>
     <ul>An experienced Senior Creative Graphic Designer with both technical and soft skills, I am currently transitioning into the data analytics field.</ul>
     <ul>Due to my design background, I am able to understand development processes and workflow, enabling me to think like a designer as well as work efficiently as a Data Analyst.</ul>
+    <ul>Using my problem-solving skills, I create disruptive and innovative projects with a customer-centered approach.</ul>
 </details>
 <br>
 <details>
@@ -30,11 +31,9 @@
 <hr/>
 🤔 I’m looking for help with ... open source contributors and Data Analytics experts.
 
-⚡ Fun fact: Using my problem-solving skills, I create disruptive and innovative projects with a customer-centered approach.
-Through experimentation with new technology trends and techniques, I continually expand my knowledge and skills.
+⚡ Fun fact: Through experimentation with new technology trends and techniques, I continually expand my knowledge and skills.
 
 😄 Pronouns: she/her
-<hr/>
 
 📫 How to reach me:
 
