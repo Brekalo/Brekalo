@@ -13,6 +13,8 @@ Vesna here. I'm in the HyperionDev Bootcamp currently expanding my Data Scientis
 
 </details>
 
+- 🤔 I’m looking for help with ... open source contributors and Data Analytics experts.
+
 📫 How to reach me:
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vesna-marija-brekalo/)
