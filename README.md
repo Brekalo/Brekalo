@@ -19,13 +19,10 @@ Due to my design background, I am able to understand development processes and w
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>>
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"></code> 
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"></code>      
-    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-line.svg"></code>
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg"></code>      
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"></code>
-    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code> 
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code> 
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"></code> 
-    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg"></code> 
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"></code> 
     <br>
     <p><a href="https://devicon.dev/" style="font-style:italic; font-size:30px;">Thank you DevIcon!</a></p>
