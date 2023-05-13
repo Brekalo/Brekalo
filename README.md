@@ -18,7 +18,7 @@ Due to my design background, I am able to understand development processes and w
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></code>
-    <code><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"></code>
+    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"></code>
         
           
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-ar21.svg"></code>
