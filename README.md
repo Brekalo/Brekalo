@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Analyzing, Creating and Launching Project](https://github.com/Brekalo/Brekalo/assets/38909114/35b8b5a2-fd6a-4f26-94b7-1f2cf046b1c3.png)
 ***Vesna here.*** I'm in the HyperionDev Bootcamp currently expanding my Data Scientist skills. As part of this program, I am learning various analysis tools, such as Python, Data Visualization, Machine Learning, Natural Language Processing (NLP), and more.
-
+<hr/>
 <details>
     <summary><b>✨About Me</b></summary><br/>
     <ul>An experienced Senior Creative Graphic Designer with both technical and soft skills, I am currently transitioning into the data analytics field.</ul>
@@ -32,8 +32,9 @@
 
 ⚡ Fun fact: Using my problem-solving skills, I create disruptive and innovative projects with a customer-centered approach.
 Through experimentation with new technology trends and techniques, I continually expand my knowledge and skills.
-😄 Pronouns: she/her
 
+😄 Pronouns: she/her
+<hr/>
 📫 How to reach me:
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vesna-marija-brekalo/)
