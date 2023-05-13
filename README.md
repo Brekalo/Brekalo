@@ -11,21 +11,35 @@ Due to my design background, I am able to understand development processes and w
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg"></code>
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"></code>    
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"></code>
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>      
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"></code>
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></code>
-    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"></code>
-        
-          
+    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"></code> 
+    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"></code>      
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-ar21.svg"></code>
+    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-line.svg"></code>
+    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg></code>      
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"></code>
+        <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code> 
+        <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code> 
+        <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"></code> 
+        <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg"></code> 
+        <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"></code> 
     <br>
-    <p><a href="https://www.vectorlogo.zone/" style="font-style: italic; font-size: 30px;">Thank you Vector Logo Zone!</a></p>
-</details>
+    <p><a href="https://www.vectorlogo.zone/" style="font-style:italic; font-size:30px;">Thank you Vector Logo Zone!</a></p>
+</details>       
 
 🤔 I’m looking for help with ... open source contributors and Data Analytics experts.
 
