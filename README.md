@@ -18,24 +18,11 @@ Due to my design background, I am able to understand development processes and w
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></code>
+    <code><img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"></code>
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-ar21.svg"></code>
     <code><img width="8%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
     <br>
     <p><a href="https://www.vectorlogo.zone/" style="font-style: italic; font-size: 30px;">Thank you Vector Logo Zone!</a></p>
-</details>
-
-
-
-
-<details>
-<summary>Entry level in my languages</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
-
 </details>
 
 🤔 I’m looking for help with ... open source contributors and Data Analytics experts.
@@ -46,6 +33,8 @@ Through experimentation with new technology trends and techniques, I continually
 📫 How to reach me:
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vesna-marija-brekalo/)
+
+😄 Pronouns: she/her
 
 <!--
 **Brekalo/Brekalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
