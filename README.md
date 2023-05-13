@@ -30,7 +30,7 @@
 </details>       
 <hr/>
 🤔 I’m looking for help with ... open source contributors and Data Analytics experts.
-
+<br>
 ⚡ Fun fact: Through experimentation with new technology trends and techniques, I continually expand my knowledge and skills.
 
 😄 Pronouns: she/her
