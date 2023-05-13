@@ -10,16 +10,16 @@ Due to my design background, I am able to understand development processes and w
 
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+    <code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+    <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+    <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+    <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+    <code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+    <code><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+    <code><img width="8%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+    <code><img width="8%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></code>
+    <code><img width="8%" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-ar21.svg"></code>
+    <code><img width="8%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
     <br>
     <p><a href="https://www.vectorlogo.zone/" style="font-style: italic; font-size: 30px;">Thank you Vector Logo Zone!</a></p>
 </details>
