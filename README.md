@@ -21,8 +21,7 @@ Due to my design background, I am able to understand development processes and w
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
     <br>
-    <p><a href="https://www.vectorlogo.zone/" style="font-style: italic; font-size: 50px; ">Thank you Vector Logo Zone!</a></p>
-
+    <p><a href="https://www.vectorlogo.zone/" style="font-style: italic; font-size: 30px;">Thank you Vector Logo Zone!</a></p>
 </details>
 
 
