@@ -20,7 +20,6 @@ Due to my design background, I am able to understand development processes and w
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
-
     <p><a href="https://www.vectorlogo.zone/" style="font-style: italic; font-size: 100px; color: grey;">Thank you Vector Logo Zone!</a></p>
 
 </details>
