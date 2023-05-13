@@ -16,7 +16,7 @@ Due to my design background, I am able to understand development processes and w
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>      
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"></code>
-    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>>
+    <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"></code> 
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"></code>      
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg"></code>      
