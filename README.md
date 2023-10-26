@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Analyzing, Creating and Launching Project](https://github.com/Brekalo/Brekalo/assets/38909114/35b8b5a2-fd6a-4f26-94b7-1f2cf046b1c3.png)
-***Vesna here.*** I'm in the HyperionDev Bootcamp currently expanding my Data Scientist skills. As part of this program, I am learning various analysis tools, such as Python, Data Visualization, Machine Learning, Natural Language Processing (NLP), [and more...](https://www.hyperiondev.com/portfolio/132506/)
+***Vesna here.*** Currently, I am learning Google Data Analytics skills at Coursera, as part of this program, I am learning various analysis tools, such as Python, SQL, R, Data Visualization, Machine Learning, Natural Language Processing (NLP), and I have also successfully completed the [HyperionDev Bootcamp](https://www.hyperiondev.com/portfolio/132506/) for Data Scientists.
 <hr/>
 <details>
     <summary><b>✨About Me</b></summary><br/>
