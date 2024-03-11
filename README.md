@@ -31,7 +31,7 @@ Educated in data analytics and data science fundamentals through rigorous course
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"></code> 
   </div>
   <br>
-  <p class="thanks"><a href="https://devicon.dev/"><small>Thanks to Devicon for the icons!</small></a></p>
+  <p class="thanks"><a href="https://devicon.dev/"><sup>Thanks to Devicon for the icons!</sup></a></p>
 </details>
 <hr/>
 🤔 I’m looking for help with ... open source contributors and Data Analytics experts.
