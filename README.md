@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![Analyzing, Creating and Launching Project](https://github.com/Brekalo/Brekalo/assets/38909114/35b8b5a2-fd6a-4f26-94b7-1f2cf046b1c3.png)
-***Vesna here.***
 <hr/>
 <details>
     <summary><b>✨About Me</b></summary><br/>
