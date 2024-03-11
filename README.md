@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![Analyzing, Creating and Launching Project](https://github.com/Brekalo/Brekalo/assets/38909114/35b8b5a2-fd6a-4f26-94b7-1f2cf046b1c3.png)
-***Vesna here.*** Currently, I am learning Google Data Analytics skills at Coursera, as part of this program, I am learning various analysis tools, such as Python, SQL, R, Data Visualization, Machine Learning, Natural Language Processing (NLP), and I have also successfully completed the [HyperionDev Bootcamp](https://www.hyperiondev.com/portfolio/132506/) for Data Scientists.
+***Vesna here.*** A dynamic professional transitioning from a successful career in design to data analytics, I am driven by a passion for uncovering insights through data to inform strategic decisions and enhance user experiences. With a rich background in visual communications and design, I bring a unique perspective to data analysis, emphasizing impactful data visualization and storytelling. 
+
+Educated in data analytics and data science fundamentals through rigorous courses, I possess skills in Python, SQL, R, and machine learning, complemented by a strong design acumen. My aspiration is to blend creative problem-solving with analytical rigor in a role that values innovation, data integrity, and the transformative power of information. I am committed to continuous learning and eager to apply my unique blend of analytical and creative skills to drive business growth and tackle real-world problems.
 <hr/>
 <details>
     <summary><b>✨About Me</b></summary><br/>
