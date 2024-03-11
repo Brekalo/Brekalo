@@ -1,14 +1,12 @@
 ### Hi there 👋
 ![Analyzing, Creating and Launching Project](https://github.com/Brekalo/Brekalo/assets/38909114/35b8b5a2-fd6a-4f26-94b7-1f2cf046b1c3.png)
-***Vesna here.*** A dynamic professional transitioning from a successful career in design to data analytics, I am driven by a passion for uncovering insights through data to inform strategic decisions and enhance user experiences. With a rich background in visual communications and design, I bring a unique perspective to data analysis, emphasizing impactful data visualization and storytelling. 
-
-Educated in data analytics and data science fundamentals through rigorous courses, I possess skills in Python, SQL, R, and machine learning, complemented by a strong design acumen. My aspiration is to blend creative problem-solving with analytical rigor in a role that values innovation, data integrity, and the transformative power of information. I am committed to continuous learning and eager to apply my unique blend of analytical and creative skills to drive business growth and tackle real-world problems.
+***Vesna here.***
 <hr/>
 <details>
     <summary><b>✨About Me</b></summary><br/>
-    <ul>An experienced Senior Creative Graphic Designer with both technical and soft skills, I am currently transitioning into the data analytics field.</ul>
-    <ul>Due to my design background, I am able to understand development processes and workflow, enabling me to think like a designer as well as work efficiently as a Data Analyst.</ul>
-    <ul>Using my problem-solving skills, I create disruptive and innovative projects with a customer-centered approach.</ul>
+    A dynamic professional transitioning from a successful career in design to data analytics, I am driven by a passion for uncovering insights through data to inform strategic decisions and enhance user experiences. With a rich background in visual communications and design, I bring a unique perspective to data analysis, emphasizing impactful data visualization and storytelling. 
+
+Educated in data analytics and data science fundamentals through rigorous courses, I possess skills in Python, SQL, R, and machine learning, complemented by a strong design acumen. My aspiration is to blend creative problem-solving with analytical rigor in a role that values innovation, data integrity, and the transformative power of information. I am committed to continuous learning and eager to apply my unique blend of analytical and creative skills to drive business growth and tackle real-world problems.
 </details>
 
 <details>
