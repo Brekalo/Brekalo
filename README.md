@@ -27,7 +27,7 @@ Educated in data analytics and data science fundamentals through rigorous course
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code> 
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"></code> 
     <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"></code> 
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"></code>
   </div>
   <br>
   <p class="thanks"><a href="https://devicon.dev/">Thanks to Devicon for the icons!</a></p>
