@@ -6,6 +6,8 @@
     A dynamic professional transitioning from a successful career in design to data analytics, I am driven by a passion for uncovering insights through data to inform strategic decisions and enhance user experiences. With a rich background in visual communications and design, I bring a unique perspective to data analysis, emphasizing impactful data visualization and storytelling. 
 
 Educated in data analytics and data science fundamentals through rigorous courses, I possess skills in Python, SQL, R, and machine learning, complemented by a strong design acumen. My aspiration is to blend creative problem-solving with analytical rigor in a role that values innovation, data integrity, and the transformative power of information. I am committed to continuous learning and eager to apply my unique blend of analytical and creative skills to drive business growth and tackle real-world problems.
+<br>
+[Portfolio & Résumé](https://sites.google.com/view/brekalo)
 </details>
 
 <details>
