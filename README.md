@@ -5,7 +5,7 @@
     <summary><b>✨About Me</b></summary><br/>
     A dynamic professional transitioning from a successful career in design to data analytics, I am driven by a passion for uncovering insights through data to inform strategic decisions and enhance user experiences. With a rich background in visual communications and design, I bring a unique perspective to data analysis, emphasizing impactful data visualization and storytelling. 
 
-Educated in data analytics and data science fundamentals through rigorous courses, I possess skills in Python, SQL, R, and machine learning, complemented by a strong design acumen. My aspiration is to blend creative problem-solving with analytical rigor in a role that values innovation, data integrity, and the transformative power of information. I am committed to continuous learning and eager to apply my unique blend of analytical and creative skills to drive business growth and tackle real-world problems.
+Educated in data analytics and data science fundamentals through rigorous courses, I possess skills in Python, SQL, R, and machine learning, complemented by a strong design acumen. My aspiration is to blend creative problem-solving with analytical rigor in a role that values innovation, data integrity, and the transformative power of information. I am committed to continuous learning and eager to apply my unique blend of analytical and creative skills to drive business growth and tackle real-world problems. <br>
 <br>
 [Portfolio & Résumé](https://sites.google.com/view/brekalo)
 </details>
@@ -46,5 +46,3 @@ Educated in data analytics and data science fundamentals through rigorous course
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vesna-marija-brekalo/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=for-the-badge)](https://www.kaggle.com/code/vesnab/data-analytics-capstone-project)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge)](https://public.tableau.com/views/DataAnalyticsCapstoneProject_17099627245100/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link) <br>
-[Portfolio & Résumé](https://sites.google.com/view/brekalo)
-
