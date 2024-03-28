@@ -47,4 +47,6 @@ Educated in data analytics and data science fundamentals through rigorous course
 [Portfolio & Résumé](https://sites.google.com/view/brekalo)
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=for-the-badge)](https://www.kaggle.com/code/vesnab/data-analytics-capstone-project)
+[!![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge)](https://public.tableau.com/views/DataAnalyticsCapstoneProject_17099627245100/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+[Portfolio & Résumé](https://sites.google.com/view/brekalo)
 
