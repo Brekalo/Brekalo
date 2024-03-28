@@ -41,12 +41,8 @@ Educated in data analytics and data science fundamentals through rigorous course
 
 📫 How to reach me:
 
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vesna-marija-brekalo/)<br>
-[Kaggle](https://www.kaggle.com/code/vesnab/data-analytics-capstone-project)<br>
-[Tableau](https://public.tableau.com/views/DataAnalyticsCapstoneProject_17099627245100/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)<br>
-[Portfolio & Résumé](https://sites.google.com/view/brekalo)
-
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vesna-marija-brekalo/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=for-the-badge)](https://www.kaggle.com/code/vesnab/data-analytics-capstone-project)
-[!![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge)](https://public.tableau.com/views/DataAnalyticsCapstoneProject_17099627245100/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+[![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge)](https://public.tableau.com/views/DataAnalyticsCapstoneProject_17099627245100/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link) <br>
 [Portfolio & Résumé](https://sites.google.com/view/brekalo)
 
