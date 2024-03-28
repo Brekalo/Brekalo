@@ -41,9 +41,9 @@ Educated in data analytics and data science fundamentals through rigorous course
 
 📫 How to reach me:
 
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vesna-marija-brekalo/)
-[Kaggle](https://www.kaggle.com/code/vesnab/data-analytics-capstone-project)
-[Tableau](https://public.tableau.com/views/DataAnalyticsCapstoneProject_17099627245100/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
-[Resume](https://sites.google.com/view/brekalo)
-[(https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/brekalo)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vesna-marija-brekalo/)<br>
+[Kaggle](https://www.kaggle.com/code/vesnab/data-analytics-capstone-project)<br>
+[Tableau](https://public.tableau.com/views/DataAnalyticsCapstoneProject_17099627245100/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)<br>
+[Résumé](https://sites.google.com/view/brekalo)
+
 
