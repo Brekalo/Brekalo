@@ -40,9 +40,9 @@ As a lifelong learner, I am committed to continuously developing my skill set an
   <p class="thanks"><a href="https://devicon.dev/"><sup>Thanks to Devicon for the icons!</sup></a></p>
 </details>
 <hr/>
-🤔 I’m looking for help with ... open source contributors and Data Analytics experts.
+🤔 I’m looking for help with ... leveling up in Power BI and data storytelling. Always keen to learn from experts and collaborate on real-world, visual data projects.
 <br>
-⚡ Fun fact: Through experimentation with new technology trends and techniques, I continually expand my knowledge and skills.
+⚡ Fun fact: Once upon a time, I obsessed over fonts and colors—now I geek out over SQL queries and Power BI dashboards. Who knew data could be this fun?
 
 😄 Pronouns: She/Her
 
