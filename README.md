@@ -3,9 +3,13 @@
 <hr/>
 <details>
     <summary><b>✨About Me</b></summary><br/>
-    A dynamic professional transitioning from a successful career in design to data analytics, I am driven by a passion for uncovering insights through data to inform strategic decisions and enhance user experiences. With a rich background in visual communications and design, I bring a unique perspective to data analysis, emphasizing impactful data visualization and storytelling. 
+    I am a dynamic professional making a successful transition from a career in design to the world of data analytics. With a strong foundation in visual communications and over a decade of experience delivering strategic creative solutions, I now focus on transforming raw data into actionable insights and compelling visual stories that inform decisions and drive value.
 
-Educated in data analytics and data science fundamentals through rigorous courses, I possess skills in Python, SQL, R, and machine learning, complemented by a strong design acumen. My aspiration is to blend creative problem-solving with analytical rigor in a role that values innovation, data integrity, and the transformative power of information. I am committed to continuous learning and eager to apply my unique blend of analytical and creative skills to drive business growth and tackle real-world problems. <br>
+My analytical journey began with the Google Data Analytics Professional Certificate and has since expanded to include formal training in data science fundamentals, web development, and statistical tools. I am proficient in Power BI, Tableau, Excel, SQL, Python, R and Google Sheets, and skilled in applying data cleaning, transformation and visualisation techniques to solve real-world problems.
+
+Drawing on my creative background, I bring a unique perspective to data storytelling, blending analytical rigour with design clarity to produce dashboards and reports that are not only functional but intuitive and impactful. I’m especially passionate about leveraging data for user-focused improvements, marketing insights, and business optimisation.
+
+As a lifelong learner, I am committed to continuously developing my skill set and contributing to innovative, cross-functional teams. I am eager to apply my combined strengths in design thinking and data analytics in a role that values creativity, critical thinking and data-driven strategy. <br>
 <br>
 [Portfolio & Résumé](https://sites.google.com/view/brekalo)
 <br>
